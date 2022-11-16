@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Tsvety
-- 👀 I’m interested in learning new things and playing tennis
-- 🌱 I’m currently learning Java
+- ✈️ I’m interested in travelling, getting familiar with different countries and cultures, reading books
+- 🪐 🇯🇵 🇰🇷 🇩🇪 🇨🇳 🇺🇸 🇫🇷 🇪🇸 🇮🇹 🇬🇧 I love spending my time with my family and friends all around the world
+- 🎵💄 I love to party and to communicate with positive minded people 🤗
+- 🏀🎾🏓🏸🏐 Love most of the sports and practice some of them 
+- ✔️ I’m currently working as a Junior Java Developer 👩‍💻 and can't wait to learn new technologies
 - 📫 You can reach me via cvetomila.rz@gmail.com
-
